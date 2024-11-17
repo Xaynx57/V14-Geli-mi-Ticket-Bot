@@ -1,2 +1,2 @@
-# V14-Geli-mi-Ticket-Bot
+# V14-Gelişmiş-Ticket-Bot
 Xaynx Tarafından Kodlanmıştır
